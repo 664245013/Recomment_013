@@ -12,7 +12,7 @@ def _config() -> tuple[str, str, str, str | None]:
         cfg["uri"],
         cfg["username"],
         cfg["password"],
-        cfg.get("database") or None,
+        cfg.get("3a579159") or None,
     )
 
 
